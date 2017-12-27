@@ -1,0 +1,1 @@
+cmd_/home/mario/Documentos/Modulos/MEMORIA/memo_200614833.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/mario/Documentos/Modulos/MEMORIA/memo_200614833.ko /home/mario/Documentos/Modulos/MEMORIA/memo_200614833.o /home/mario/Documentos/Modulos/MEMORIA/memo_200614833.mod.o ;  true
